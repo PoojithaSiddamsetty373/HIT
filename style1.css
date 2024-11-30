@@ -1,0 +1,181 @@
+*{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+header{
+    background-color: white;
+    border-bottom: 1px solid lightgrey;
+}
+.nav-item a {
+    margin-left: 30px;
+   
+    font-weight: 150px;
+    font-size: 20px;
+   
+}
+.nav-item a:hover {
+    color: orange;
+    border-bottom: 6px solid blue;
+}
+
+.main h1 {
+    font-size: 60px;
+    font-weight: 20px;
+    
+   margin-right: 100px;
+   margin-top:140px;
+   margin-left: 80px;
+  
+}
+.main h2 {
+    font-size: 60px;
+    font-weight: 20px;
+margin-left: 80px;
+  
+  
+}
+.main h5 i {
+    font-size: 20px;
+    font-weight: 20px;
+    margin-left: 80px;
+    
+    margin-top: 50px;
+  margin-bottom: 100px;
+  
+}
+
+span{
+    color: blue;
+    margin-left: 20px;
+    
+}
+.main button{
+    width: 23%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border-radius:6px;
+    margin-top: 30px;
+    margin-left:80px;
+    margin-bottom: 40px;
+}
+.main img{
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.main1 img{
+    margin-top: 50px;
+    border-radius: 10px;
+   margin-bottom: 100px;
+   margin-left: 0%;
+}
+.main1 h3{
+    margin-top:200px ;
+    text-align: start;
+}
+.main1 span{
+    color: blue;
+    text-align: left;
+    border-bottom: 6px solid blue;
+}
+.main1 P{
+    font-size: 17px;
+    font-weight: 15px;
+    text-align: start;
+    margin-top: 0%;
+    margin-bottom: 100px;
+}
+.main2 span{
+    color: blue;
+    text-align: left;
+    border-bottom: 6px solid blue;
+}
+.main2 h3{
+    margin-top:65px ;
+    text-align: start;
+ 
+}
+
+.main2 P{
+    font-size: 17px;
+    font-weight: 15px;
+    text-align: start;
+    margin-bottom: 10px;
+}
+
+.main22 img{
+  margin-left: 255px;
+  margin-top: 10px;
+}
+.progress{
+    margin-bottom: 5px;
+}
+
+.main3 img{
+    margin-bottom: 15px;
+ border-radius: 15px;
+    margin-top: 50px;
+}
+.main3 span{
+    color: blue;
+    text-align: left;
+    border-bottom: 6px solid blue;
+   
+}
+.main4 span{
+    color: blue;
+    text-align: left;
+    border-bottom: 6px solid blue;
+   
+}
+.main41 input{
+    width: 30%;
+    height: 60px;
+   margin-top: 100px;
+  margin-left: 50px;
+
+text-align: center;
+font-size: 20px;
+  
+}
+
+.main43 input{
+    width: 30%;
+  height: 200PX;
+  margin-top: 100px;
+  margin-left: 50px;
+ 
+text-align: center;
+font-size: 20px;
+    
+}
+.footer button{
+    width: 10%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    border-radius:6px;
+    margin-top: 30px;
+    margin-left:300px;
+    margin-bottom: 40px;
+}
+footer{
+margin-bottom: 10px;
+    height: 25vh;
+   background-color: rgb(12, 12, 44);
+   color: white;
+   text-align: center;
+   
+}
+footer h1{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+footer p{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+footer h5 i{
+    margin-right: 40px;
+}
